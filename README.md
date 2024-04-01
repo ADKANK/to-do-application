@@ -28,7 +28,7 @@ To start the development server:
 
 ```bash
 npm start
-
+```
 ## Task Management
 
 ### Local State Management with useState Hook
