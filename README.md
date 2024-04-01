@@ -40,6 +40,9 @@ Redux is used to manage the global state of the application, including the task 
 ### Redux Persist for Local Storage
 Redux Persist is used to persist the task list in local storage. This ensures that tasks remain saved even after the user refreshes the page or closes the browser. When the application initializes, it retrieves the task list from local storage and initializes the Redux store with the persisted data.
 
+## Deployment
+The application is deployed on Vercel. You can access it [here](https://to-do-application-dun.vercel.app/).
+
 ## Technologies Used
 - React: Frontend library for building user interfaces.
 - Redux: State management library for managing application state.
